@@ -1,3 +1,5 @@
+## ABOUT ME
+# 
 - 👋 Hi, I’m @Witty-Sam
 - 👀 I’m interested in graphics animation 
 - 🌱 I’m currently learning ui/ux
@@ -10,3 +12,4 @@
 Witty-Sam/Witty-Sam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
